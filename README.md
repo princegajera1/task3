@@ -1,6 +1,8 @@
  
-
 Markov Chain Text Generator
+
+ 
+![Alt text](https://github.com/princegajera1/task3/blob/e60199b6d99c3de1c36c893f14138e7cb88957ba/Screenshot%202025-07-11%20085549.png)
 
 This project is a simple text generator that uses a Markov chain algorithm to create new text based on a provided input sample.
 
