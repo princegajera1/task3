@@ -1,4 +1,4 @@
-Of course, here is a README file based on your project file.
+ 
 
 Markov Chain Text Generator
 
